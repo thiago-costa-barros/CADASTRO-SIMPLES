@@ -5,11 +5,11 @@ Cadastro Simples de uma Unidade para CENSO DEMOGRÁFICO
 tkinter
 datetime
 
-##INTERFACE GRÁFICA SIMPLES
-label
+## INTERFACE GRÁFICA SIMPLES
+### label
 entry
 comboblox
 button
 
-##INTERAÇÃO NA INTERFACE
+## INTERAÇÃO NA INTERFACE
 função def()
